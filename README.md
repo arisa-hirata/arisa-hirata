@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![hello](https://user-images.githubusercontent.com/32582917/107866597-79224100-6e27-11eb-89de-58721a6dcbd4.gif)
 <!--
 **arisa-hirata/arisa-hirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
